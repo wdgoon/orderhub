@@ -29,6 +29,22 @@
                "drankje1":"cola1"
             }
          ]
+      },
+      {
+         "categories":[
+            {
+               "name":"Hamburgers",
+               "code":"hamcat",
+               "description":"Juicy hamburgers",
+               "products":[
+                  {
+                     "name":"Chili Burger",
+                     "price":12.00,
+                     "code":"chiliburg",
+                  }
+               ]
+            }
+         ]
       }
    ]
 }
