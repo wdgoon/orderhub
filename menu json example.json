@@ -1,0 +1,27 @@
+{
+   "menu":[
+      {
+         "optiongroups":[
+            {
+               "name":"Extra saus",
+               "type":"checkbox",
+               "code":"extrasaus1"
+            },
+            {
+               "name":"Drankje?",
+               "type":"select",
+               "code":"drankje1"
+            }
+         ]
+      },
+      {
+         "options":[
+            {
+               "name":"Cola",
+               "prijs":1.5,
+               "code":"cola1"
+            }
+         ]
+      }
+   ]
+}
